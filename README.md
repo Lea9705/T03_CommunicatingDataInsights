@@ -4,7 +4,7 @@ Built for **COS30045 Data Visualisation**, Swinburne University of Technology,
 Sarawak Campus.
 
 ## Data Story 
-This section of the site tells a story for people shopping for a new TV who want to understand what it will actually cost to run before they buy. Rather than just showing raw numbers, the Televisions page walks through three practical questions: does a bigger screen really cost more to run, is paying extra for a higher star rating worth it, and what's a normal amount to expect to pay each year. The goal is to turn the real GEMS energy-rating data into something a non-technical shopper can actually use when comparing TVs. 
+This section of the site tells a story for people shopping for a new TV who want to understand what it will actually cost to run before they buy. Rather than just showing raw numbers, the Televisions page walks through all six of the questions explored in T02: what screen technologies are most common, what screen sizes are most common, which brands have the most models, which technology uses the least power, how screen size affects running cost, and whether a higher star rating is worth paying for.
 
 ## About the Data 
 ### Data source 

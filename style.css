@@ -305,13 +305,13 @@ tbody tr:hover {
   font-weight: 600;
   color: var(--text-muted);
   margin-bottom: 0.3em;
+  margin-top: 2.5em;
 }
 
 /* The chart screenshots themselves */
 .chart-img {
   max-width: 100%;
   max-height: 450px;
-  margin-top: 2.5em;
 }
 
 .tips-list {

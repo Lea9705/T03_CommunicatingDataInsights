@@ -300,6 +300,20 @@ tbody tr:hover {
   margin-top: 0.75em;
 }
 
+/* Labels sitting above each chart, naming which question it answers */
+.chart-label {
+  font-weight: 600;
+  color: var(--text-muted);
+  margin-bottom: 0.3em;
+}
+
+/* The chart screenshots themselves */
+.chart-img {
+  max-width: 100%;
+  max-height: 450px;
+  margin-top: 2.5em;
+}
+
 .tips-list {
   padding-left: 1.4em;
 }
